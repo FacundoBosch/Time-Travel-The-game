@@ -1,0 +1,1 @@
+import{g as e,n as t,u as n}from"./index-Dj0uxkiz.js";var r={};function i(t,r){return e(),n(`p`,null,`lol no se encontró`)}var a=t(r,[[`render`,i]]);export{a as default};

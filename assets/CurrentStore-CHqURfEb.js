@@ -1,0 +1,1 @@
+import{S as e,r as t}from"./index-Dj0uxkiz.js";var n=`/Time-Travel-The-game/assets/timetravel-CT7FGy46.png`,r=t(`juego`,()=>{let t=e([]),n=e(!1);function r(){for(let r=0;r<5;r++){var e=Math.floor(Math.random()*10),n=!1;for(let i in t.value)r!=i&&t.value[i]===e&&(--r,n=!0);n==0&&(t.value[r]=e)}return`Juego armado!`}return{juego:t,EstablecerJuego:r,resultFlag:n}});export{n,r as t};
